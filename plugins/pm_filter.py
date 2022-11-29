@@ -365,7 +365,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             f_caption = f_caption
         if f_caption is None:
             f_caption = f"{files.file_name}"
-        buttons = InlineKeyboardMarkup( [ [ InlineKeyboardButton('⚔️ 𝖯𝖨𝖱𝖮 𝖴𝖯𝖣𝖠𝖳𝖤𝖲 ⚔️', url='https://t.me/rai_info17') ] ] )
+        buttons = InlineKeyboardMarkup( [ [ InlineKeyboardButton('⚔️𝐄𝐋𝐃𝐎𝐑𝐀𝐃𝐎🚬', url='https://t.me/wudixh') ] ] )
 
         try:
             if AUTH_CHANNEL and not await is_subscribed(client, query):
@@ -379,7 +379,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     chat_id=query.from_user.id,
                     file_id=file_id,
                     caption=f_caption,
-                    reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('⚔️ 𝖯𝖨𝖱𝖮 𝖴𝖯𝖣𝖠𝖳𝖤𝖲 ⚔️', url='https://t.me/rai_info17') ] ] ),
+                    reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('⚔️𝐄𝐋𝐃𝐎𝐑𝐀𝐃𝐎🚬', url='https://t.me/wudixh') ] ] ),
                     protect_content=True if ident == "filep" else False 
                 )
                 await query.answer('𝖢𝗁𝖾𝖼𝗄 𝖯𝖬, 𝖨 𝗁𝖺𝗏𝖾 𝗌𝖾𝗇𝗍 𝖿𝗂𝗅𝖾𝗌 𝗂𝗇 𝖯𝖬', show_alert=True)
@@ -411,7 +411,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 f_caption = f_caption
         if f_caption is None:
             f_caption = f"{title}"
-        buttons = InlineKeyboardMarkup( [ [ InlineKeyboardButton('⚔️ 𝖯𝖨𝖱𝖮 𝖴𝖯𝖣𝖠𝖳𝖤𝖲 ⚔️', url='https://t.me/rai_info17') ] ] )
+        buttons = InlineKeyboardMarkup( [ [ InlineKeyboardButton('⚔️𝐄𝐋𝐃𝐎𝐑𝐀𝐃𝐎🚬', url='https://t.me/wudixh') ] ] )
         
         
         await query.answer()
@@ -419,7 +419,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             chat_id=query.from_user.id,
             file_id=file_id,
             caption=f_caption,
-            reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('⚔️ 𝖯𝖨𝖱𝖮 𝖴𝖯𝖣𝖠𝖳𝖤𝖲 ⚔️', url='https://t.me/rai_info17') ] ] ),
+            reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('⚔️𝐄𝐋𝐃𝐎𝐑𝐀𝐃𝐎🚬', url='https://t.me/wudixh') ] ] ),
             protect_content=True if ident == 'checksubp' else False
         )
     elif query.data == "pages":
@@ -429,7 +429,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('➕ 𝖠𝖽𝖽 𝖬𝖾 𝖳𝗈 𝖸𝗈𝗎𝗋 𝖦𝗋𝗈𝗎𝗉 ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ], [
             InlineKeyboardButton('🔍 𝖲𝖾𝖺𝗋𝖼𝗁', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('🤖 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋', url='https://t.me/rai_info17')
+            InlineKeyboardButton('🤖 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋', url='https://t.me/im_goutham_josh')
         ], [
             InlineKeyboardButton('ℹ️ 𝖧𝖾𝗅𝗉', callback_data='help'),
             InlineKeyboardButton('😊 𝖠𝖻𝗈𝗎𝗍', callback_data='about')
@@ -465,7 +465,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "about":
         buttons = [[
-            InlineKeyboardButton('🤖 𝖴𝗉𝖽𝖺𝗍𝖾𝗌', url='https://t.me/rai_info17'),
+            InlineKeyboardButton('🤖 𝖴𝗉𝖽𝖺𝗍𝖾𝗌', url='https://t.me/wudixh'),
             InlineKeyboardButton('♥️ 𝖲𝗈𝗎𝗋𝖼𝖾', callback_data='source')
         ], [
             InlineKeyboardButton('🏠 𝖧𝗈𝗆𝖾', callback_data='start'),
