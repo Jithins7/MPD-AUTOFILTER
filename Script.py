@@ -9,7 +9,6 @@ class script(object):
 
 ⚠️𝖬𝗈𝗋𝖾 𝖧𝖾𝗅𝗉 𝖧𝗂𝗍 /help
 
-🙋🏻‍♂️ 𝖳𝗎𝗍𝗈𝗋𝗂𝖺𝗅 𝖦𝗎𝗂𝖽𝖾 @piro_tuts
 
 😎 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖻𝗒 @rai_info17
 """
@@ -52,8 +51,8 @@ class script(object):
 Special Thanks to EvaMaria and Professor-Bot for the codes 
 <b>DEV:</b>
 
-- <a href=https://t.me/rithesh_rkrm_17>『ᴘɪʀᴏ』</a>
-- Source - https://github.com/ritheshrkrm/PiroAutoFilterBot """
+- <a href=https://t.me/im_goutham_josh>『ᴘɪʀᴏ』</a>
+- Source -  https://github.com/GouthamSER/Filter-Bot"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and PiroAutoFilterBot will respond whenever a keyword is found the message
