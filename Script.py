@@ -20,7 +20,6 @@ class script(object):
 ○  𝖲𝖾𝖺𝗋𝖼𝗁 𝗎𝗌𝗂𝗇𝗀 𝗂𝗇𝗅𝗂𝗇𝖾 𝗆𝗈𝖽𝖾
 𝖳𝗁𝗂𝗌 𝗆𝖾𝗍𝗁𝗈𝖽 𝗐𝗈𝗋𝗄𝗌 𝗈𝗇 𝖺𝗇𝗒 𝖼𝗁𝖺𝗍, 𝖩𝗎𝗌𝗍 𝗍𝗒𝗉𝖾 <b>Bot Username</b> 𝖺𝗇𝖽 𝗍𝗁𝖾𝗇 𝗅𝖾𝖺𝗏𝖾 𝖺 𝗌𝗉𝖺𝖼𝖾 𝖺𝗇𝖽 𝗌𝖾𝖺𝗋𝖼𝗁 𝖺𝗇𝗒 𝗆𝗈𝗏𝗂𝖾 𝗒𝗈𝗎 𝗐𝖺𝗇𝗍...
 
-🙋🏻‍♂️ 𝖳𝗎𝗍𝗈𝗋𝗂𝖺𝗅 𝖦𝗎𝗂𝖽𝖾 @piro_tuts
 
 ○ 𝖠𝗏𝖺𝗂𝗅𝖺𝖻𝗅𝖾 𝖢𝗈𝗆𝗆𝖺𝗇𝖽𝗌
      
@@ -75,11 +74,11 @@ Special Thanks to EvaMaria and Professor-Bot for the codes
 • /delallg - <code>ᴛᴏ ᴅᴇʟᴇᴛᴇ ᴀʟʟ ɢʟᴏʙᴀʟ ꜰɪʟᴛᴇʀꜱ</code>"""
     BUTTON_TXT = """Help: <b>Buttons</b>
 
-- PiroAutoFilterBot Supports both url and alert inline buttons.
+- KuttuBot Supports both url and alert inline buttons.
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
-2. PiroAutoFilterBot supports buttons with any telegram media type.
+2. KuttuBot supports buttons with any telegram media type.
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
