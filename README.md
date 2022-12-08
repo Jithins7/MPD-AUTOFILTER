@@ -1,19 +1,40 @@
 
 ## Features
 
-- [x] Auto Filter
-- [x] Manual Filter
+- [x] IMDB Template Set
+- [x] Indexes Files above 2GB
+- [x] Settings Menu
+- [x] Force Subscription
+- [x] Automatic File Filtering
+- [x] Double Filter Button
+- [x] Single Filter Button
+- [x] Bot PM File Send Mode
+- [x] Auto File Send
+- [x] Forward Restriction
+- [x] File Protect
+- [x] Manual File Filtering
+- [x] Global File Filtering
 - [x] IMDB
 - [x] Admin Commands
-- [x] Broadcast
+- [x] User Broadcast
+- [x] Group Broadcast
 - [x] Index
 - [x] IMDB search
 - [x] Inline Search
 - [x] Random pics
 - [x] ids and User info 
-- [x] Stats, Users, Chats, Ban, Unban, Leave, Disable, Channel
+- [x] Stats
+- [x] Users
+- [x] Chats
+- [x] User Ban
+- [x] User Unban
+- [x] Chat Leave
+- [x] Chat Disable
+- [x] Channel
 - [x] Spelling Check Feature
 - [x] File Store
+- [x] Auto Delete
+- [x] And More...
 
 ### Required Variables
 * `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
@@ -42,7 +63,7 @@ You can deploy this bot anywhere.
 
 The fastest way to deploy the application is to click the **Deploy to Koyeb** button below.
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/GouthamSER/Filter-Bot&branch=master&name=filesharingbot)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/GouthamSER/Filter-Bot&branch=main&name=filesharingbot)
 
 
 
