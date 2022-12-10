@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/GouthamSER/Filter-Bot",
-    "repository": "https://github.com/GouthamSER/Filter-Bot",
+    "website": "https://github.com/Jithins7/MPD-AUTOFILTER",
+    "repository": "https://github.com/Jithins7/MPD-AUTOFILTER",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
