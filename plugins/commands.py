@@ -150,7 +150,7 @@ async def start(client, message):
                     chat_id=message.from_user.id,
                     file_id=msg.get("file_id"),
                     caption=f_caption,
-                    reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('⚔️𝐄𝐋𝐃𝐎𝐑𝐀𝐃𝐎🚬', url='https://t.me/wudixh') ] ] ),
+                    reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('𝙼𝚊𝚜𝚝𝚎𝚛 𝙿𝚛𝚒𝚗𝚝 𝙳𝚘𝚠𝚗𝚕𝚘𝚊𝚍𝚎𝚛🎞️【𝙼𝙿𝙳】5.0', url='https://t.me/mpd_007_5') ] ] ),
                     protect_content=msg.get('protect', False),
                     )
             except FloodWait as e:
@@ -160,7 +160,7 @@ async def start(client, message):
                     chat_id=message.from_user.id,
                     file_id=msg.get("file_id"),
                     caption=f_caption,
-                    reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('⚔️𝐄𝐋𝐃𝐎𝐑𝐀𝐃𝐎🚬', url='https://t.me/wudixh') ] ] ),
+                    reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('𝙼𝚊𝚜𝚝𝚎𝚛 𝙿𝚛𝚒𝚗𝚝 𝙳𝚘𝚠𝚗𝚕𝚘𝚊𝚍𝚎𝚛🎞️【𝙼𝙿𝙳】5.0', url='https://t.me/mpd_007_5') ] ] ),
                     protect_content=msg.get('protect', False),
                     )
             except Exception as e:
@@ -255,7 +255,7 @@ async def start(client, message):
         chat_id=message.from_user.id,
         file_id=file_id,
         caption=f_caption,
-        reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('⚔️𝐄𝐋𝐃𝐎𝐑𝐀𝐃𝐎🚬', url='https://t.me/wudixh') ] ] ),
+        reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('𝙼𝚊𝚜𝚝𝚎𝚛 𝙿𝚛𝚒𝚗𝚝 𝙳𝚘𝚠𝚗𝚕𝚘𝚊𝚍𝚎𝚛🎞️【𝙼𝙿𝙳】5.0', url='https://t.me/mpd_007_5') ] ] ),
         protect_content=True if pre == 'filep' else False,
         )
                     
