@@ -10,7 +10,7 @@ class script(object):
 ⚠️𝖬𝗈𝗋𝖾 𝖧𝖾𝗅𝗉 𝖧𝗂𝗍 /help
 
 
-😎 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖻𝗒 @im_goutham_josh
+😎 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖻𝗒 @Jithis7
 """
     HELP_TXT = """
 🙋🏻‍♂️   𝖧𝖾𝗅𝗅𝗈𝗈𝗈  {} 🤓
@@ -36,10 +36,10 @@ class script(object):
 
 ○𝖣𝗈𝗇𝗍 𝖲𝗉𝖺𝗆 𝖬𝖾...🤒
 
-😎 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖻𝗒 @im_goutham_josh
+😎 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖻𝗒 @Jithis7
 """
     ABOUT_TXT = """
-○ 𝖢𝗋𝖾𝖺𝗍𝗈𝗋 : <a href='https://t.me/im_goutham_josh'>𝖳𝗁𝗂𝗌 𝖯𝖾𝗋𝗌𝗈𝗇</a>
+○ 𝖢𝗋𝖾𝖺𝗍𝗈𝗋 : <a href='https://t.me/Jithis7'>𝖳𝗁𝗂𝗌 𝖯𝖾𝗋𝗌𝗈𝗇</a>
 ○ 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾 : 𝖯𝗒𝗍𝗁𝗈𝗇 𝟥 
 ○ 𝖫𝗂𝖻𝗋𝖺𝗋𝗒 : 𝖯𝗒𝗋𝗈𝗀𝗋𝖺𝗆 𝖺𝗌𝗒𝗇𝖼𝗂𝗈 𝟢.𝟣𝟩.𝟣 
 ○ 𝖲𝖾𝗋𝗏𝖾𝗋 : Contabo
@@ -50,7 +50,7 @@ class script(object):
 Special Thanks to EvaMaria and Professor-Bot for the codes 
 <b>DEV:</b>
 
-- <a href=https://t.me/im_goutham_josh>『ᴘɪʀᴏ』</a>
+- <a href=https://t.me/Jithis7>『ᴘɪʀᴏ』</a>
 - Source -  https://github.com/GouthamSER/Filter-Bot"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
