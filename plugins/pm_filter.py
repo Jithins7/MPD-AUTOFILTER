@@ -365,7 +365,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             f_caption = f_caption
         if f_caption is None:
             f_caption = f"{files.file_name}"
-        buttons = InlineKeyboardMarkup( [ [ InlineKeyboardButton('⚔️𝐄𝐋𝐃𝐎𝐑𝐀𝐃𝐎🚬', url='https://t.me/wudixh') ] ] )
+        buttons = InlineKeyboardMarkup( [ [ InlineKeyboardButton('𝙼𝙿𝙳  𝙻𝚒𝚗𝚔𝚣𝚣', url='https://t.me/MPD_Linkzz') ] ] )
 
         try:
             if AUTH_CHANNEL and not await is_subscribed(client, query):
@@ -379,7 +379,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     chat_id=query.from_user.id,
                     file_id=file_id,
                     caption=f_caption,
-                    reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('⚔️𝐄𝐋𝐃𝐎𝐑𝐀𝐃𝐎🚬', url='https://t.me/wudixh') ] ] ),
+                    reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('𝙼𝙿𝙳  𝙻𝚒𝚗𝚔𝚣𝚣', url='https://t.me/MPD_Linkzz') ] ] ),
                     protect_content=True if ident == "filep" else False 
                 )
                 await query.answer('𝖢𝗁𝖾𝖼𝗄 𝖯𝖬, 𝖨 𝗁𝖺𝗏𝖾 𝗌𝖾𝗇𝗍 𝖿𝗂𝗅𝖾𝗌 𝗂𝗇 𝖯𝖬', show_alert=True)
@@ -411,7 +411,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 f_caption = f_caption
         if f_caption is None:
             f_caption = f"{title}"
-        buttons = InlineKeyboardMarkup( [ [ InlineKeyboardButton('⚔️𝐄𝐋𝐃𝐎𝐑𝐀𝐃𝐎🚬', url='https://t.me/wudixh') ] ] )
+        buttons = InlineKeyboardMarkup( [ [ InlineKeyboardButton('𝙼𝙿𝙳  𝙻𝚒𝚗𝚔𝚣𝚣', url='https://t.me/MPD_Linkzz') ] ] )
         
         
         await query.answer()
@@ -419,7 +419,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             chat_id=query.from_user.id,
             file_id=file_id,
             caption=f_caption,
-            reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('⚔️𝐄𝐋𝐃𝐎𝐑𝐀𝐃𝐎🚬', url='https://t.me/wudixh') ] ] ),
+            reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('𝙼𝙿𝙳  𝙻𝚒𝚗𝚔𝚣𝚣', url='https://t.me/MPD_Linkzz') ] ] ),
             protect_content=True if ident == 'checksubp' else False
         )
     elif query.data == "pages":
